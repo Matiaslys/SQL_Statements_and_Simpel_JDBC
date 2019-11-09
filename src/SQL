@@ -1,0 +1,8 @@
+3 eksembler på SQL statements
+
+1) SELECT * FROM world.country WHERE name LIKE Denmark
+
+2) SELECT Name, Continent from country where country.Continent = 'Europe';
+
+3) select Name, SurfaceArea, Population, GovernmentForm from country where GovernmentForm like 'Republic';
+
