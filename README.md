@@ -1,0 +1,1 @@
+Her er der nogle SQL Statements, og et program fra min lærer som jeg har lavet lidt om på. Nu istedet for at bruge alt informationen fra en database tager den, information fra 2 men viser kun lande, sprog og et antal procent i landet der snakker det sprog.
